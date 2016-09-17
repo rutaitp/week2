@@ -1,0 +1,46 @@
+body{
+	background-color:darkcyan;
+}
+#header{
+	text-align:center;
+	font-family: Verdana;
+	color:gainsboro;
+}
+#instructions{
+	background-color:lightseagreen;
+	width:700px;
+	border:solid 1px;
+	border-color:white;
+	font-family: Courier;
+	margin: auto;
+}
+#input{
+	width:500px;
+	height:100px;
+	word-wrap:break-word;
+	display:block;
+	margin:auto;
+	font-family: Courier;
+	font-size: 10pt;
+}
+#submit{
+	display:block;
+	margin:auto;
+}
+#almost{
+	background-color: mediumturquoise;
+	width:500px;
+	border:solid 1px;
+	border-color:white;
+	font-family: Courier;
+	margin: auto;
+}
+#final{
+	background-color: #CCCC00;
+	width:700px;
+	border:solid 1px;
+	border-color:white;
+	font-style: italic;
+	font-family: Courier;
+	margin: auto;
+}
